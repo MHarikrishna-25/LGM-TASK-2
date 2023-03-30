@@ -1,2 +1,2 @@
 # LGM-TASK-2
-Implemented calculator using HTML,CSS and JS
+Implemented Student Registration Form using HTML,CSS and JS
